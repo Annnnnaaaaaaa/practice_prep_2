@@ -1,4 +1,2 @@
 ﻿bugged text
-
-
-dtjdlkjnoiseurhdf
+fix 1 for this bug
